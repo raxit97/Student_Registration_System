@@ -4,7 +4,7 @@ import java.sql.*;
 
 public class JDBC {
     
-    //public static void main(String args[]){   delete("Ram Kumar");   }
+    //public static void main(String args[]) { }
     
     public static String checkNameOrReg(String name_or_reg){
         boolean status1 = false, status2 = false;
